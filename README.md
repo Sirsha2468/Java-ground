@@ -22,5 +22,14 @@ And for execution the code open command prompt / terminal (Power shell)
 After go to the directory in which the file is saved. *enter* <br>
 For compilation  javac FileName.java <br>
 And for running java ClassName <br>
-And we are done!
-__ For better understanding, here is the code which is written on terminal / command prompt. __
+And we are done! <br>
+**For better understanding, here is the code which is written on terminal / command prompt.**
+/*C:\Users\Admin>cd IdeaProjects
+
+C:\Users\Admin\IdeaProjects>cd Butterfly_Pattern
+
+C:\Users\Admin\IdeaProjects\Butterfly_Pattern>cd src
+
+C:\Users\Admin\IdeaProjects\Butterfly_Pattern\src>cd com
+
+C:\Users\Admin\IdeaProjects\Butterfly_Pattern\src\com>cd Sirsha*/
