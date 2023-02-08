@@ -37,3 +37,15 @@ C:\Users\Admin\IdeaProjects\Butterfly_Pattern\src\com>cd Sirsha
 C:\Users\Admin\IdeaProjects\Butterfly_Pattern\src\com\sirsha>javac main.java
 
 C:\Users\Admin\IdeaProjects\Butterfly_Pattern\src\com\sirsha>java Main
+
+**Output of the code**
+Enter the number of row: 
+4
+*      *
+**    **
+***  ***
+********
+********
+***  ***
+**    **
+*      *
