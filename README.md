@@ -39,13 +39,4 @@ C:\Users\Admin\IdeaProjects\Butterfly_Pattern\src\com\sirsha>javac main.java
 C:\Users\Admin\IdeaProjects\Butterfly_Pattern\src\com\sirsha>java Main
 
 **Output of the code**
-Enter the number of row: 
-4
-*      *
-**    **
-***  ***
-********
-********
-***  ***
-**    **
-*      *
+![image](https://user-images.githubusercontent.com/69218962/217639212-41d4ab49-2e1e-4c49-89f9-1b2292b9f775.png)
