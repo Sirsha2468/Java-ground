@@ -1,7 +1,7 @@
 # Java-ground
-All the programs, written in JAVA will meet here.
-To acces Java source code you have to go with some steps
-First after opening Java Ground, click on any folder, each folders consist of Java programs, here we will be doing for Butterfly pattern
+All the programs, written in JAVA will meet here.<br>
+To acces Java source code you have to go with some steps. <br>
+First after opening Java Ground, click on any folder, each folders consist of Java programs, here we will be doing for Butterfly pattern <br>
 ![image](https://user-images.githubusercontent.com/69218962/216254597-749bc246-fcaf-4f18-ac61-7c981f060864.png)
 Click on it
 After clicking on that now click on src/com/sirsha
@@ -21,5 +21,6 @@ Write the code and save the file with extention .java and save it. <br>
 And for execution the code open command prompt / terminal (Power shell)
 After go to the directory in which the file is saved. *enter* <br>
 For compilation  javac FileName.java <br>
-And for running java ClassName
-<p>And we are done! *enter* </p>
+And for running java ClassName <br>
+And we are done!
+__ For better understanding, here is the code which is written on terminal / command prompt. __
