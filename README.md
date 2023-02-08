@@ -18,3 +18,8 @@ First open any kind of text editor (Notepad, Notepad++) or any
 In our scenario we are using Notepad, you can use any..
 ![image](https://user-images.githubusercontent.com/69218962/216255586-840ce845-247d-452b-b7fc-1a2d3a7fd871.png)
 Write the code and save the file with extention .java and save it.
+And for execution the code open command prompt / terminal (Power shell)
+After go to the directory in which the file is saved.
+For compilation  javac FileName.java
+And for running java ClassName
+And we are done!
